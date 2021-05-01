@@ -5,11 +5,11 @@ Hey, I'm Jaden Hums. I am originally from Toronto but living in British Columbia
 - Email: jadenhums51@gmail.com
 - [Resume](https://drive.google.com/file/d/13nyMZ9ptHNt_a4Ek-TaPtVwHKMiBXyMu/view?usp=sharing)
 
-##### Languages and tools
+#### Languages and tools
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaden51)](https://github.com/anuraghazra/github-readme-stats)
 
-##### Currently learning
+#### Currently learning
 
 - Python
 - React
