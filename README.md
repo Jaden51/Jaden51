@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello there 👋
 
+Hey, I'm Jaden Hums. I am originally from Toronto but living in British Columbia studying (hopefully) Computer Science at the University of British Columbia. My passion for programming stems creating. I love imagining an idea and making it come to life. 
+
+# Languages and tools
 <!--
 **Jaden51/Jaden51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
