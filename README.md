@@ -4,7 +4,7 @@ Hey, I'm Jaden Hums. I am originally from Toronto but living in British Columbia
 
 ##### Languages and tools
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaden51)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaden51)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Jaden51/Jaden51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
