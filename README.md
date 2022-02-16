@@ -1,7 +1,6 @@
 ### Hello there 👋
 
-Hey, I'm Jaden Hums. I am originally from Toronto but living in British Columbia studying Computer Science at the University of British Columbia. My passion for programming stems from creating, I love imagining an idea and making it come to life.
-
+Hey, I'm Jaden Hums. I am originally from Toronto but living in British Columbia studying Computer Science at the University of British Columbia. 
 - Email: jadenhums51@gmail.com
 - [Resume](https://drive.google.com/file/d/13nyMZ9ptHNt_a4Ek-TaPtVwHKMiBXyMu/view?usp=sharing)
 
