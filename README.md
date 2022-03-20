@@ -8,12 +8,6 @@ Hey, I'm Jaden Hums. I am originally from Toronto but living in British Columbia
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaden51)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Currently learning
-
-- Python
-- React
-- Data structures and algorithms 
-
 <!--
 **Jaden51/Jaden51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
