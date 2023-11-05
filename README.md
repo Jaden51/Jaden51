@@ -2,7 +2,7 @@
 
 Hey, I'm Jaden Hums. I am originally from Toronto but living in British Columbia studying Computer Science at the University of British Columbia. 
 - Email: jadenhums51@gmail.com
-- [Resume](https://drive.google.com/file/d/13nyMZ9ptHNt_a4Ek-TaPtVwHKMiBXyMu/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1XsjUSTpWU99zZwW_cxUWPZUtx61_pLba/view?usp=sharing)
 
 #### Languages and tools
 
