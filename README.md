@@ -17,9 +17,9 @@ Currently, I'm in school working as the Software Development Director for UBC Es
 </a>
 
 ## 🖥️ What I've done
-- Software Developer Intern @ [SAP](https://www.sap.com/)
-- Software Developer Intern @ [Vidyard](https://www.vidyard.com/)
-- Software Engineering Intern @ [Procurify](https://www.procurify.com/)
+- Software Engineer Intern @ [SAP](https://www.sap.com/)
+- Software Engineer Intern @ [Vidyard](https://www.vidyard.com/)
+- Software Engineer Intern @ [Procurify](https://www.procurify.com/)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=1a43c9)
