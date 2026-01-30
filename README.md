@@ -43,5 +43,5 @@ Currently, I'm in school working as the Software Development Director for UBC Es
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Jaden51&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/Jaden51">
-  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&hide=css,html" alt="Jaden's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaden51&layout=compact&theme=github_dark&hide=css,html" alt="Jaden's GitHub Stats" />
 </a>
