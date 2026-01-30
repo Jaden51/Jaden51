@@ -39,5 +39,9 @@ Currently, I'm in school working as the Software Development Director for UBC Es
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazonwebservices&logoColor=white&color=1a43c9)
 
 ## 📈 Stats
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Jaden51&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Jaden51&layout=compact&theme=github_dark)
+<a href="https://github.com/Jaden51">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=Jaden51&show_icons=true&theme=github_dark" />
+</a>
+<a href="https://github.com/Jaden51">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pranesh-2005&hide=css,html" alt="Jaden's GitHub Stats" />
+</a>
