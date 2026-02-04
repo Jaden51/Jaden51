@@ -13,7 +13,7 @@ I’m Jaden Hums, a Computer Science student at the University of British Columb
 Currently, I'm in school working as the Software Development Director for UBC Esports, leading a team to create a cool app for UBC's gaming lounge :space_invader:. 
 
 <a href="https://github.com/ubcesports/lounge-hub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ubcesports&repo=lounge-hub&title_color=ffffff&text_color=c9cacc&icon_color=1a43c9&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ubcesports&repo=lounge-hub&title_color=ffffff&text_color=c9cacc&icon_color=1a43c9&bg_color=1d1f21" />
 </a>
 
 ## 🖥️ What I've done
