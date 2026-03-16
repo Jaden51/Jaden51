@@ -15,6 +15,9 @@ Currently, I'm in school working as the Software Development Director for UBC Es
 <a href="https://github.com/ubcesports/lounge-hub">
   <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ubcesports&repo=lounge-hub&theme=github_dark" />
 </a>
+<a href="https://github.com/ubcesports/echo-base">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ubcesports&repo=echo-base&theme=github_dark" />
+</a>
 
 ## 🖥️ What I've done
 - Software Engineer Intern @ [SAP](https://www.sap.com/)
